@@ -91,10 +91,10 @@ embed {
 .caixa_colunas { 
     padding: 2.4em 4em 2.4em 4em;
     margin-left: 28%;
-    margin-top:3%;
+    margin-top:5%;
     position: absolute;
     width: 55%;
-    height: 65%;
+    height: 62%;
 }
 
 .caixa_colunas iframe{
@@ -181,7 +181,7 @@ p {
 
 .footer {
     width: 100%;
-    margin-top: 47%;
+    margin-top: 49%;
     margin-bottom: 2.4em;
     float: left;
     clear: both;
